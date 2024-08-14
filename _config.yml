@@ -18,7 +18,7 @@ minimal_mistakes_skin    :   "air"   #, "aqua", "contrast", "dark", "dirt", "neo
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "HYUNJAE WOO"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "Systems Biology, Computational Biology, Machine Learning"# site tagline that appears below site title in masthead
 name                     : "Hyunjae Woo"
 description              : "An amazing website."
@@ -116,7 +116,7 @@ author:
   name             : "Hyunjae Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am Hyunjae Woo, a prospective Ph.D. student in **Systems Biology**, **Synthetic Biology**, and **Machine Learning**."
-  location         : "Korea"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
