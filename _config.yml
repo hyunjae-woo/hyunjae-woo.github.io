@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "HYUNJAE WOO"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Master student at Konkuk University"# site tagline that appears below site title in masthead
 name                     : "Hyunjae Woo"
 description              : "An amazing website."
 url                      : "https://hyunjae-woo.github.io"
