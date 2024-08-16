@@ -118,7 +118,7 @@ author:
   bio              : "I am Hyunjae Woo, a prospective Ph.D. student in **Systems Biology**, **Synthetic Biology**, and **Machine Learning**."
   location         : "Seoul, Korea"
   email            :
- links:
+links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
