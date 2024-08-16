@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Hyunjae Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am Hyunjae Woo, a prospective Ph.D. student in **Systems Biology**, **Synthetic Biology**, and **Machine Learning**."
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
